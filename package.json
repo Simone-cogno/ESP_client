@@ -1,0 +1,22 @@
+{
+  "name": "esp-client",
+  "version": "1.0.0",
+  "description": "[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simone-cogno/ESP_client.git"
+  },
+  "author": "Simone Cogno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simone-cogno/ESP_client/issues"
+  },
+  "homepage": "https://github.com/Simone-cogno/ESP_client#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
