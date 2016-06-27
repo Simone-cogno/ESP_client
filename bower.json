@@ -1,8 +1,8 @@
 {
-  "name": "ESP_client",
+  "name": "esp_client",
   "homepage": "https://github.com/Simone-cogno/ESP_client",
   "authors": [
-    "Simone <simone.cogno@gmail.com>"
+    "Simone Cogno <simone.cogno@gmail.com>"
   ],
   "description": "",
   "main": "",
@@ -14,5 +14,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap-less": "^3.3.4"
+  }
 }

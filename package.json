@@ -16,7 +16,10 @@
     "url": "https://github.com/Simone-cogno/ESP_client/issues"
   },
   "homepage": "https://github.com/Simone-cogno/ESP_client#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1"
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.1.0",
+    "gulp-sourcemaps": "^1.6.0"
   }
 }
